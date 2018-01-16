@@ -1,0 +1,60 @@
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Bot Application.dll.config
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Bot Application.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Bot Application.pdb
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Autofac.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Chronic.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.Bot.Connector.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Newtonsoft.Json.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.Net.Http.Formatting.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.Web.Http.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.Web.Http.WebHost.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Autofac.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.Bot.Connector.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Newtonsoft.Json.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.Net.Http.Formatting.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.Web.Http.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.Web.Http.WebHost.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\obj\Debug\Bot Application2.csprojResolveAssemblyReference.cache
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\obj\Debug\Bot Application2.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\obj\Debug\Bot Application.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\obj\Debug\Bot Application.pdb
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Bot.Builder.Luis.WitAi.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\RestSharp.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\Wit.ai.net.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\MySql.Data.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.ValueTuple.dll
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\MySql.Data.xml
+C:\Users\jaspe\source\repos\Bot Application2\Bot Application2\bin\System.ValueTuple.xml
